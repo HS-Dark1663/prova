@@ -1,0 +1,11 @@
+{
+    "name": "kauan.vinnicius/projetoengenharia",
+    "description": "API",
+    "license": "mit",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "require": {}
+}
